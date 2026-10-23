@@ -1,0 +1,6 @@
+[build]
+target-dir = "runtime/build"
+
+[env]
+TMP = { value = "runtime/tmp", relative = true, force = true }
+TEMP = { value = "runtime/tmp", relative = true, force = true }

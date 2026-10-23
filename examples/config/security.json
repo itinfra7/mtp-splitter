@@ -1,0 +1,9 @@
+{
+  "protocol_version": 1,
+  "server_name": "gateway.example.com",
+  "ca_certificate": "config/gateway-ca.pem",
+  "client_certificate": "config/client.pem",
+  "client_key": "config/client-key.pem",
+  "transport": "mtp_tcp_v1",
+  "zero_rtt": false
+}

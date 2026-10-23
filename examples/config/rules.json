@@ -1,0 +1,8 @@
+[
+  {
+    "exe_name": "example-target.exe",
+    "path_glob": null,
+    "sha256": null,
+    "include_children": true
+  }
+]

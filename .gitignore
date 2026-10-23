@@ -1,0 +1,14 @@
+/runtime/*
+!/runtime/.gitkeep
+/logs/*
+!/logs/.gitkeep
+/bin/*.exe
+/bin/*.dll
+/bin/*.sys
+/mtp-splitter.exe
+/config/
+/*.zip
+/bin/fonts/*.ttf
+/bin/fonts/*.otf
+/dist/
+/github-repo/

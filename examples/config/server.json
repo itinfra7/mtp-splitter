@@ -1,0 +1,9 @@
+{
+  "host": "192.0.2.1",
+  "port": 443,
+  "secret_hex": "ee000102030405060708090a0b0c0d0e0f6578616d706c652e636f6d",
+  "tls_domain": "example.com",
+  "tunnel_mode": "extended_socks_over_mtproto",
+  "dc_id": 2,
+  "timeout_seconds": 10
+}

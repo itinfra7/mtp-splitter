@@ -1,0 +1,9 @@
+mtp-splitter
+Copyright (C) 2026 itinfra7 from GitHub
+Original project code: GNU Affero General Public License version 3 only (AGPL-3.0-only).
+
+WinDivert retains its original license and copyright notices in bin/WinDivert-LICENSE.txt and bin/WinDivert-README.txt.
+Nanum Gothic retains its SIL Open Font License and copyright notices in bin/fonts/OFL.txt.
+Rust dependencies retain their respective licenses. Binary archives include dependency notices and available license texts in licenses/.
+
+The certificates and private keys under tests/fixtures are public test fixtures. They must not be used for deployment.
